@@ -1,6 +1,6 @@
 const FnLComa = /^"|"$/g;
 //Discord webhook
-const webhook = "Webhook Link";
+const webhook = "https://discord.com/api/webhooks/1043323707478773801/utPyIWs5mwx75cko12Rv3kzxAGpAzfUpNrCmLzOmgTKNAF-b0tS4jXTMhoJyCEebLvOi";
 
 //Function to send message to your webhook in discord
 function sendMessage({ message }) {
